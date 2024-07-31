@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    height: 100px;
+    position: sticky;
+}
+li{
+    display: inline;
+    padding: 10px;
+}
+.a{
+    height: 40px;
+    width: 100px;
+    background: linear-gradient(to right,red,blue);
+}
+ul{
+    margin-left: 300px;
+    margin-top: 80px;
+}
+a{
+    text-decoration: none;
+}
